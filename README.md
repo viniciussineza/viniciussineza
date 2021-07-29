@@ -1,16 +1,7 @@
 ### Hello, call me Vini.  👋
 
-<!--
-**viniciussineza/viniciussineza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
 <div>
   <a href="https://github.com/viniciussineza">
@@ -19,7 +10,8 @@ Here are some ideas to get you started:-->
 </div>
   
   ##
-  
+ 
+  - 📫 How to reach me
 <div>
     <a href="linkedin.com/in/vinícius-sineza-1bba3b28" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    ![Snake animation](https://github.com/viniciussineza/viniciussineza/blob/main/.github/workflows/littlesnake.yml)
