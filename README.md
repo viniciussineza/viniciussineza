@@ -16,5 +16,5 @@
     <a href="linkedin.com/in/vinícius-sineza-1bba3b28" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <div>
-  ![Snake animation](https://github.com/viniciussineza/viniciussineza/blob/main/.github/workflows/littlesnake.yml)
+  ![Snake animation](https://github.com/viniciussineza/viniciussineza/blob/main/.github/workflows/main.yml)
 </div>
