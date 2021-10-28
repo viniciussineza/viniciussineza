@@ -1,8 +1,8 @@
 ### Hello, call me Vini.  👋
 
 
-- 🌱 I’m currently learning Java
-
+- 🐼 I’m currently learning Python and DevOps Practices
+- ☁️ Cloud DevOps Intern at TOTVS
 <div>
   <a href="https://github.com/viniciussineza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciussineza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
