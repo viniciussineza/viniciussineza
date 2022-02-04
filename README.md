@@ -1,7 +1,7 @@
 ### Hello, call me Vini.  👋
 
 
-- 🐼 I’m currently learning Python and DevOps Practices
+- 🐼 I’m currently learning about Public Clouds (Azure, AWS, Oracle and GCP), Terraform, Docker, Jenkins and Go
 - ☁️ Cloud DevOps Intern at TOTVS
 <div>
   <a href="https://github.com/viniciussineza">
