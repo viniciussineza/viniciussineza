@@ -10,7 +10,7 @@
 </div>
   
   ## Technologies
-  <img src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" width="80" target="_blank">
+  <img src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" width="100" target="_blank">
   <img src="https://www.terraform.io/img/docs/tfe_logo.png" width="80" target="_blank">
   
   
