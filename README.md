@@ -10,7 +10,7 @@
 </div>
   
   ## Technologies
-  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg" target="_blank">
+  <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/amazon.svg" width="100" target="_blank">
   
  
   - 📫 How to reach me
