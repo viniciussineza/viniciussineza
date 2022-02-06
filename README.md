@@ -9,12 +9,12 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussineza&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
   
-  ## Technologies
-  <img src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" width="100" target="_blank">
+<div>
+  <h2> Technologies </h2>
+  <img src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" width="107" target="_blank">
   <img src="https://www.terraform.io/img/docs/tfe_logo.png" width="80" target="_blank">
-  
-  
- 
+</div>
+<br>
   - 📫 How to reach me
 <div>
     <a href="linkedin.com/in/vinícius-sineza-1bba3b28" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
