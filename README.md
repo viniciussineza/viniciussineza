@@ -10,8 +10,8 @@
 </div>
   
   ## Technologies
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fpt%2F&psig=AOvVaw1THbCRke9miIJCvnwwbh1I&ust=1644256649889000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDv48DT6_UCFQAAAAAdAAAAABAD" width="70" target="_blank">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.terraform.io%2Fcloud-docs%2Fvcs%2Fgithub&psig=AOvVaw36ayssTOjv4_EcuvVt-QAY&ust=1644256697701000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD6wdjT6_UCFQAAAAAdAAAAABAD" width="70" target="_blank">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faws.amazon.com%2Fpt%2F&psig=AOvVaw1THbCRke9miIJCvnwwbh1I&ust=1644256649889000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDv48DT6_UCFQAAAAAdAAAAABAD" width="100" target="_blank">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.terraform.io%2Fcloud-docs%2Fvcs%2Fgithub&psig=AOvVaw36ayssTOjv4_EcuvVt-QAY&ust=1644256697701000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKD6wdjT6_UCFQAAAAAdAAAAABAD" width="100" target="_blank">
   
   
  
