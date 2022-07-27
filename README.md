@@ -1,24 +1,44 @@
-### Hello, call me Vini.  👋
+<h2 style="text-align:center">Welcome ❤️ Call me Vini.  👋</h2>
+<div style="display: flex; justify-content: center">
+    <img src="https://art.pixilart.com/5bec2111aa94.png" style="height:500px">
+</div>
+<div style="display: flex; justify-content: center">Art By: <a href="https://www.pixilart.com/qwertzilla">qwertzilla</a></div>
 
-- 🎓 Future B.S. in Computer Science 
-- 🐼 I’m currently learning about Public Clouds (Azure, AWS, Oracle and GCP), Terraform, Docker, Jenkins and Go
-- ☁️ Cloud DevOps Intern at TOTVS
-<div>
+<div style="display: flex; justify-content: center;margin-top: 20px">
+
+<details>
+<summary> More about me</summary>
+<div> 
+
+```js
+const Vini = {
+    personal: {
+        fullName: 'Vinicius Sineza',
+        interests: ['books', 'games', 'language learning', 'star wars', 'marvel'],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                JavaScript: ['Vanilla JS', 'React', 'Jest'],
+                HTML: ['HTML5'],
+                CSS: ['still learning'],
+            },
+            backEnd: {
+                JavaScript: ['NodeJS', 'Express']
+            },
+        },
+    }
+}
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
+</div>
+</details>
+</div>
+<div style="display: flex; justify-content: center;margin-top: 20px">
   <a href="https://github.com/viniciussineza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciussineza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussineza&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
-<div>
-  <h2> Technologies </h2>
-  <img align="center" height="40" src="https://www.jdrf.org/wp-content/uploads/2020/12/AWS-logo-2.jpg" >
-  <img align="center" height="40" src="https://www.terraform.io/img/docs/tfe_logo.png">
-</div>
-<br>
-  - 📫 How to reach me
-<div>
-    <a href="linkedin.com/in/vinícius-sineza-1bba3b28" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-  
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/viniciussineza/viniciussineza/output/github-contribution-grid-snake.svg)
-</div>
+<hr>
