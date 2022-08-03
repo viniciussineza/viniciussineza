@@ -1,13 +1,13 @@
 <h2 style="text-align:center">Welcome ❤️ Call me Vini.  👋</h2>
-<div style="display: flex; justify-content: center">
+<div align="center">
     <img src="https://art.pixilart.com/5bec2111aa94.png" style="height:500px">
 </div>
-<div style="display: flex; justify-content: center">Art By: <a href="https://www.pixilart.com/qwertzilla">qwertzilla</a></div>
+<div align="center">Art By: <a href="https://www.pixilart.com/qwertzilla">qwertzilla</a></div>
 
-<div style="display: flex; justify-content: center;margin-top: 20px">
+<div>
 
 <details>
-<summary> More about me</summary>
+<summary align="center"> More about me</summary>
 <div> 
 
 ```js
@@ -36,7 +36,7 @@ puts markdown.to_html
 </div>
 </details>
 </div>
-<div style="display: flex; justify-content: center;margin-top: 20px">
+<div align="center">
   <a href="https://github.com/viniciussineza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciussineza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussineza&layout=compact&langs_count=7&theme=synthwave"/>
