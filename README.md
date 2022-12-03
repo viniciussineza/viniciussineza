@@ -24,6 +24,7 @@ const Vini = {
                 CSS: ['still learning'],
             },
             backEnd: {
+                Java,
                 JavaScript: ['NodeJS', 'Express']
             },
         },
