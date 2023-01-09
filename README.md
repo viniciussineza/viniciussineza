@@ -33,13 +33,4 @@ const Vini = {
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-
-</div>
-</details>
-</div>
-<div align="center">
-  <a href="https://github.com/viniciussineza">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciussineza&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussineza&layout=compact&langs_count=7&theme=synthwave"/>
-</div>
 <hr>
