@@ -34,3 +34,5 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 <hr>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussineza)](https://github.com/viniciussineza/github-readme-stats)
